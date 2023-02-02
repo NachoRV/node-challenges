@@ -1,2 +1,2 @@
-# node-dev
+# NodeJS Training
 NodeJS Training

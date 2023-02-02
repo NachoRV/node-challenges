@@ -1,0 +1,22 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "NodeJS Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DX-and-EE-South-Europe/node-dev.git"
+  },
+  "author": "calbertts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DX-and-EE-South-Europe/node-dev/issues"
+  },
+  "homepage": "https://github.com/DX-and-EE-South-Europe/node-dev#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
