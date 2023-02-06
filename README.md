@@ -1,3 +1,5 @@
+![node](https://user-images.githubusercontent.com/1326651/217010450-16def397-1655-4d19-98d1-44d6cb9b8b4d.png)
+
 # NodeJS My Dojo Challenges
 
 There's a branch per level, each level could have multiple stages, the current structure looks like this:
